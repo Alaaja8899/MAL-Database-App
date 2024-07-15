@@ -13,8 +13,15 @@ The MyAnimeList (MAL) Database Search Website is simple website that u can searc
 To start using the MyAnimeList Database Search Website, follow these steps:
 
 1. Clone the repository:
-  ```[git clone ](https://github.com/Alaaja8899/MAL-Database-App.git)```
+  ```bash
+[git clone ](https://github.com/Alaaja8899/MAL-Database-App.git)
+
+```
 2.Install dependencies:
-  ```npm install```
+  ```bash
+  npm install
+```
 3.Run :
-  ```npm run dev```
+  ```bash
+  npm run dev
+```
