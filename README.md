@@ -3,6 +3,10 @@
 
 The MyAnimeList (MAL) Database Search Website is simple website that u can search anime and see basic information like general anime information and its trailer 
 
+![MAL-1](https://github.com/user-attachments/assets/4d90cd40-52df-4a81-b867-e016f06f586e)
+![MAL-3](https://github.com/user-attachments/assets/0294d64b-31ed-47c7-8c0b-89ddb6008cf8)
+
+
 ## Features
 
 - **Search:** Easily find anime titles by name .
