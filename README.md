@@ -1,7 +1,7 @@
 
 # MyAnimeList (MAL) Database Search Website
 
-The MyAnimeList (MAL) Database Search Website is simple website that u can search anime and see basic information like general anime information and its trailer 
+The MyAnimeList (MAL) Database Search Website is  website demostrating what jikan-api , @jikan-me 
 
 ![MAL-1](https://github.com/user-attachments/assets/4d90cd40-52df-4a81-b867-e016f06f586e)
 ![MAL-3](https://github.com/user-attachments/assets/0294d64b-31ed-47c7-8c0b-89ddb6008cf8)
